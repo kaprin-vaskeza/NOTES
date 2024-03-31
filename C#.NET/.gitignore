@@ -1,0 +1,12 @@
+# Ignore all files except Program.cs
+# *
+# !Program.cs
+
+# Ignore obj folder
+obj/
+
+# Ignore bin folder
+bin/
+
+# Ignore the Variables.csproj file
+*.csproj
